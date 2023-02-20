@@ -1,0 +1,8 @@
+gunicorn
+fastapi
+urllib3
+uvicorn
+opencv-python-headless
+mangum
+deepface
+urllib3
